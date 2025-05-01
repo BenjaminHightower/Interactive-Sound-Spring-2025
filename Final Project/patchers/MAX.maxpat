@@ -5927,7 +5927,9 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 356.0, 1388.0, 45.0, 45.0 ]
+					"patching_rect" : [ 356.0, 1388.0, 45.0, 45.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 640.00006103515625, 362.418581664562225, 45.0, 45.0 ]
 				}
 
 			}
@@ -6241,7 +6243,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 156.0, 356.0, 50.0, 22.0 ],
-					"text" : "3"
+					"text" : "62"
 				}
 
 			}
@@ -10939,7 +10941,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "BG1.jpg",
-				"bootpath" : "~/OneDrive/Documents/Max 9/Projects/MAX/media",
+				"bootpath" : "~/OneDrive/Documents/GitHub/Interactive-Sound-Spring-2025/Final Project/media",
 				"patcherrelativepath" : "../media",
 				"type" : "JPEG",
 				"implicit" : 1
